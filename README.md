@@ -1,10 +1,8 @@
-# Cara
-An e-commerce website dedicated to clothing. The project encompasses essential e-commerce functionalities such as product cataloging, search, add to bag, contact and a shopping cart system. 
-
-![image](https://github.com/Kajal1907/Cara/assets/100417636/ff3fc34b-56b7-403e-8d07-5c486bf7fe6a)
-![image](https://github.com/Kajal1907/Cara/assets/100417636/95531251-9c2d-4bb4-9434-f0adf061bd25)
-![image](https://github.com/Kajal1907/Cara/assets/100417636/fc2ebd78-7201-4080-bccb-32943ee331a4)
-![image](https://github.com/Kajal1907/Cara/assets/100417636/092fd563-9da3-40a6-84bd-55efde8ad3ed)
-![image](https://github.com/Kajal1907/Cara/assets/100417636/883fc499-7d79-453d-9859-a55dac5270b3)
-![image](https://github.com/Kajal1907/Cara/assets/100417636/1123562a-cecd-4582-a676-75dc85b0dc9b)
-![image](https://github.com/Kajal1907/Cara/assets/100417636/c69d33ee-bfe9-485f-b355-0cb2e2d4f3ba)
+# UI
+![7](https://github.com/user-attachments/assets/316b0b3f-afbe-4980-b9db-0cfed2a87540)
+![6](https://github.com/user-attachments/assets/1681a589-56c3-484e-9c16-7d21c263e2f2)
+![5](https://github.com/user-attachments/assets/cee70dc6-b0aa-4514-9aca-5235389676a3)
+![4](https://github.com/user-attachments/assets/b426081a-458a-42bc-9ae2-eb665042cdb8)
+![3](https://github.com/user-attachments/assets/1e1ab603-32b7-4b29-bda5-327ed543610b)
+![2](https://github.com/user-attachments/assets/58ac5de2-9cde-4cef-81ec-60fd02084169)
+![1](https://github.com/user-attachments/assets/59811ebf-cff8-4735-9b61-ec753cbf554d)
